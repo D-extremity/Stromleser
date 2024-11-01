@@ -1,0 +1,22 @@
+{
+    "connect": "verbinden",
+    "@connect": {
+        "description": "verbinden"
+    },
+    "energyConsumed": "verbruikte energie",
+    "@energyConsumed": {
+        "description": "verbruikte energie"
+    },
+    "bill": "rekening",
+    "@bill": {
+        "description": "Te betalen bedrag"
+    },
+    "disconnect": "loskoppelen",
+    "@disconnect": {
+        "description": "loskoppelen"
+    },
+    "languageSelect": "taal selecteren",
+    "@languageSelect": {
+        "description": "taal selecteren"
+    }
+}

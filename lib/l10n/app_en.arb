@@ -1,0 +1,22 @@
+{
+    "connect": "Connect",
+    "@connect": {
+        "description": "Connect"
+    },
+    "energyConsumed": "Energy Consumed",
+    "@energyConsumed": {
+        "description": "Total Energy Consumed"
+    },
+    "bill": "Bill",
+    "@bill": {
+        "description": "Amount to be paid"
+    },
+    "disconnect": "Disconnect",
+    "@disconnect": {
+        "description": "disconnect"
+    },
+    "languageSelect": "Select Language",
+    "@languageSelect": {
+        "description": "select language"
+    }
+}

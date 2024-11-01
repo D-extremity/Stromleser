@@ -1,0 +1,22 @@
+{
+    "connect": "वाईफ़ाई से कनेक्ट करें",
+    "@connect": {
+        "description": "वाईफ़ाई से कनेक्ट करें"
+    },
+    "energyConsumed": "ऊर्जा की खपत",
+    "@energyConsumed": {
+        "description": "ऊर्जा की खपत"
+    },
+    "bill": "बीजक",
+    "@bill": {
+        "description": "देय राशि"
+    },
+    "disconnect": "डिस्कनेक्ट",
+    "@disconnect": {
+        "description": "डिस्कनेक्ट"
+    },
+    "languageSelect": "भाषा चुने",
+    "@languageSelect": {
+        "description": "भाषा चुने"
+    }
+}
