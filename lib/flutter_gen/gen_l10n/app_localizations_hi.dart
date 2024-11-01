@@ -20,4 +20,8 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get languageSelect => 'भाषा चुने';
+
+  @override
+  String get noteToConnect =>
+      'कृपया स्ट्रोमलेसर वाई-फाई नेटवर्क से स्वचालित रूप से कनेक्ट करने के लिए \'कनेक्ट\' पर क्लिक करें';
 }

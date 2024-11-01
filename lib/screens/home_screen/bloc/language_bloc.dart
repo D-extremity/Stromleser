@@ -7,7 +7,7 @@ part 'language_event.dart';
 part 'language_state.dart';
 
 class LanguageBloc extends Bloc<LanguageEvent, LanguageState> {
-  LanguageBloc() : super(LanguageInitial()) {
+  LanguageBloc() : super(const LanguageInitial()) {
     on<ChangeLanguageEvent>((event, emit) {
       emit(UpdateLanguageState(event.locale));
     });

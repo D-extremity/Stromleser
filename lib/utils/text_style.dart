@@ -11,7 +11,6 @@ class PoppinText {
       style: GoogleFonts.dmSans(
         textStyle: TextStyle(
           color: color ?? Colors.white.withOpacity(0.8),
-      
           fontWeight: weight,
           shadows: [
             shadow ??
@@ -21,10 +20,9 @@ class PoppinText {
                   color: const Color.fromARGB(8, 0, 0, 0).withOpacity(0.0),
                 ),
           ],
-          fontSize: size+2.sp,
+          fontSize: size + 2.sp,
         ),
       ),
     );
   }
-
 }

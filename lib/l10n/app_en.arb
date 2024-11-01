@@ -18,5 +18,9 @@
     "languageSelect": "Select Language",
     "@languageSelect": {
         "description": "select language"
+    },
+    "noteToConnect": "Please click on 'Connect' to automatically connect to the Stromleser Wi-Fi network",
+    "@noteToConnect": {
+        "description": "Please click on 'Connect' to automatically connect to the Stromleser Wi-Fi network"
     }
 }

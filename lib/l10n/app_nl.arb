@@ -18,5 +18,9 @@
     "languageSelect": "taal selecteren",
     "@languageSelect": {
         "description": "taal selecteren"
+    },
+    "noteToConnect": "Klik op 'Verbinden' om automatisch verbinding te maken met het Stromleser Wi-Fi-netwerk",
+    "@noteToConnect": {
+        "description": "Klik op 'Verbinden' om automatisch verbinding te maken met het Stromleser Wi-Fi-netwerk"
     }
 }

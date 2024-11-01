@@ -8,10 +8,9 @@ sealed class LanguageState {
 }
 
 final class LanguageInitial extends LanguageState {
-  const LanguageInitial():super(locale: const Locale('en'));
+  const LanguageInitial() : super(locale: const Locale('en'));
 }
 
-final class UpdateLanguageState extends  LanguageState{
-  const UpdateLanguageState(Locale locale):super(locale:locale);
-
+final class UpdateLanguageState extends LanguageState {
+  const UpdateLanguageState(Locale locale) : super(locale: locale);
 }

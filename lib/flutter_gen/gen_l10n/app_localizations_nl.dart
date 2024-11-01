@@ -20,4 +20,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get languageSelect => 'taal selecteren';
+
+  @override
+  String get noteToConnect =>
+      'Klik op \'Verbinden\' om automatisch verbinding te maken met het Stromleser Wi-Fi-netwerk';
 }

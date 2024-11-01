@@ -20,4 +20,8 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get languageSelect => 'Select Language';
+
+  @override
+  String get noteToConnect =>
+      'Please click on \'Connect\' to automatically connect to the Stromleser Wi-Fi network';
 }
